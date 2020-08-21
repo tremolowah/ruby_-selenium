@@ -1,0 +1,20 @@
+﻿No,Title,URL
+1,ruby + selenium webdriverチュートリアル,https://katsulog.tech/ruby-selenium-webdriver-tutorial/
+2,環境構築不要で配布！ruby+seleniumのコードをexe化【chromedriver】,https://katsulog.tech/ruby_selenium_chrome_exe/
+3,【効率化】VS CODEでよく使う文字列をショートカットキーで登録,https://katsulog.tech/register-strings-frequently-used-in-vs-code-with-shortcut-keys/
+4,chromedriverのheadlessでファイルをダウンロードする,https://katsulog.tech/download_files_with_chromedrivers_headless_mode/
+5,リンクを別タブを開いてアクセスすればPageBackとか要らない,https://katsulog.tech/325000-rinku-o-betsu-tabu-o-aite-akusesu-sureba-pageback-toka-iranai-if-you-access-the-link-by-opening-another-tab-you-do-not-need-pageback/
+6,selenium webdriverで任意のchrome profileを作成し、ログイン情報などを記憶させる,https://katsulog.tech/create-an-arbitrary-chrome-profile-with-selenium-webdriver-and-store-login-information-etc/
+7,ruby + selenium(RSpecなど)の例外処理には回数を指定すべきです,https://katsulog.tech/number-of-times-should-be-specified-for-exception-processing-of-ruby-selenium-rspec-etc/
+8,rubyでSSL接続時のエラーやhttpsの画像が保存できない時の対処法,https://katsulog.tech/how-to-do-when-ruby-is-not-able-to-save-ssl-connection-error-or-https-images/
+9,CSVを作成する時にbom付きで保存して文字化けを解決！,https://katsulog.tech/save-csv-with-bom-and-resolve-garbled-characters/
+10,[無料]Chrome headless + seleniumをherokuで定期実行,https://katsulog.tech/regularly-run-chrome-headless-selenium-with-heroku/
+11,[GAS]GoogleSpreadSheetでのスクレイピング時にサイトにログインした後のソースを取得,https://katsulog.tech/get-the-source-after-logging-in-to-the-site-when-scraping-with-googlespreadsheet/
+12,windowsならruby + selenium webdriverも環境設定は15分で終わる,https://katsulog.tech/if-windows-ruby-selenium-webdriver-also-ending-the-configuration-in-15-minutes/
+13,selenium gridやjenkinsを返さず単体のコードのみで複数のdriverを並列実行,https://katsulog.tech/parallel-running-multiple-selenium-webdriver-only-alone-code-without-using-selenium-grid-or-jenkins/
+14,rescueでどんなエラーが起きたか表示させる,https://katsulog.tech/display-what-error-occurred-in-rescue/
+15,ruby + selenium webdriverをchrome拡張付きで起動する,https://katsulog.tech/launch-chromedriver-with-extension/
+16,要素を待つ時にsleepを使うのはオススメしない,https://katsulog.tech/i-do-not-recommend-using-sleep-when-waiting-for-elements/
+17,ruby+selenium webdriverで使うCSVについていろいろ,https://katsulog.tech/about-csv-used-with-ruby-selenium-webdriver/
+18,xpathについてのtips,https://katsulog.tech/tips-on-xpath/
+19,textareaへのsend_keysの速度が遅い時の対処法,https://katsulog.tech/how-to-faster-the-input-send_keys-to-text/
